@@ -1,0 +1,13 @@
+{
+    "name": "vendor/yii",
+    "description": "Description of project yii.",
+    "authors": [
+        {
+            "name": "boszk",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "fxp/composer-asset-plugin": "dev-master"
+    }
+}
